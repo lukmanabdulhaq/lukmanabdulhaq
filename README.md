@@ -1,0 +1,43 @@
+# 👋 Hi, I’m Lukman Abdul Haq  
+### AI Operations & Full-Stack Engineer  
+
+Building AI workflows and scalable web applications that automate business processes and improve customer experience.
+
+📍 Accra, Ghana (Remote Ready)  
+📫 lukmanabdulhaq1@gmail.com  
+
+---
+
+## 👨‍💻 What I Do  
+I design and build AI-powered web systems, chatbots, and automation tools for startups and businesses.
+
+---
+
+## 💼 Featured Projects
+
+### 🔥 Business-TAlly — AI Business Workflow Automation  
+An AI automation system built with n8n and LLMs to help businesses manage and analyze transactions and messages.
+
+🔗 Source Code: https://github.com/lukmanabdulhaq/business-TAlly  
+
+---
+
+### 🌍 Global Tourism Web App  
+A scalable TypeScript web application that showcases tourism data with modern UI and performance optimization.
+
+🔗 Source Code: https://github.com/lukmanabdulhaq/global-tourism  
+
+---
+
+## 🚀 Skills  
+
+**AI & Automation:** OpenAI API, Prompt Engineering, LangChain, Dialogflow  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express, REST & GraphQL APIs  
+**Database & Cloud:** PostgreSQL, Supabase, Firebase, AWS  
+**DevOps:** Docker, CI/CD (GitHub Actions)
+
+---
+
+📬 Let’s build something impactful together!
+
