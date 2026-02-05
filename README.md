@@ -1,28 +1,14 @@
-# 🌍 Global Tourism Intelligence Pipeline
-### Automated Destination Analysis & Traveler Support System
+# 🇦🇪 Lukman Abdulhaq | AWS Data Engineer
+### Data Pipelines • Generative AI • Machine Learning
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Data_Engineer-orange?logo=amazon-aws)](https://github.com/lukmanabdulhaq)
-[![Status](https://img.shields.io/badge/Status-Active_Pipeline-success)](#)
+![AWS Data Engineer](https://img.shields.io/badge/AWS-Data_Engineer-orange?logo=amazon-aws)
+![AWS ML Essentials](https://img.shields.io/badge/AWS-ML_Essentials-blue?logo=amazon-aws)
+![AWS GenAI](https://img.shields.io/badge/AWS-Generative_AI-white?logo=amazon-aws)
 
-## 🎯 Overview
-This repository hosts a data-driven tourism automation engine. The system is designed to ingest global travel data, analyze destination-specific metrics (cost, safety, attractions), and deliver tailored itineraries through an autonomous AI logic layer.
-
-## 🏗️ Technical Architecture
-The pipeline is built on a modular architecture that mirrors modern cloud data workflows:
-* **Data Ingestion**: Automated triggers capturing traveler preferences and destination requests.
-* **Processing Layer**: Logic-based routing to filter destinations by safety ratings, seasonal trends, and ROI (value for money).
-* **Output Delivery**: Dynamic generation of travel reports and real-time notification alerts.
-
-## 🛠️ Tech Stack
-* **Orchestration**: n8n / Logic Workflows
-* **AI Engine**: LLM Integration for sentiment and preference mapping
-* **Data Format**: JSON-structured event data
-* **Cloud Infrastructure**: Designed for AWS deployment (Lambda/EC2)
-
-## 🚀 Key Engineering Challenges Solved
-* **Multi-API Integration**: Synchronizing disparate travel data sources into a unified JSON schema.
-* **Conditional Logic**: Implementing complex branching to handle high-risk vs. low-risk travel advisories.
-* **Scalability**: Built to handle concurrent global requests without data collision.
+## 🎥 Featured Project: Dubai Real Estate AI Agent
+<div align="center">
+  <video src="https://raw.githubusercontent.com/lukmanabdulhaq/lukmanabdulhaq/main/demo.mp4" width="100%" controls muted autoplay loop></video>
+</div>
 
 ---
-*Maintained by Lukman Abdulhaq — AWS Certified Data Engineer*
+*Certified by AWS in Machine Learning and GenAI (Feb 2026)*
