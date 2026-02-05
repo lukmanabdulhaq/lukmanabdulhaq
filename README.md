@@ -1,22 +1,28 @@
-# 🇦🇪 Dubai Real Estate AI Support Agent
-### Autonomous Multilingual Triage & Data Pipeline
+# 🌍 Global Tourism Intelligence Pipeline
+### Automated Destination Analysis & Traveler Support System
 
-<div align="center">
-  <video src="https://raw.githubusercontent.com/lukmanabdulhaq/lukmanabdulhaq/main/demo.mp4" width="100%" controls muted autoplay loop></video>
-</div>
+[![AWS Certified](https://img.shields.io/badge/AWS-Data_Engineer-orange?logo=amazon-aws)](https://github.com/lukmanabdulhaq)
+[![Status](https://img.shields.io/badge/Status-Active_Pipeline-success)](#)
 
----
+## 🎯 Overview
+This repository hosts a data-driven tourism automation engine. The system is designed to ingest global travel data, analyze destination-specific metrics (cost, safety, attractions), and deliver tailored itineraries through an autonomous AI logic layer.
 
-## 🏗️ The Engineering Behind the Agent
-Designed as a production-grade data pipeline, this system automates customer relations for the Dubai property market using:
-
-* **Ingestion**: Webhook-based event triggers for real-time data capture.
-* **Logic (NLP)**: Google Gemini 1.5 Flash for language detection (Arabic/English) and sentiment analysis.
-* **Orchestration**: n8n workflow engine (Self-hosted/Cloud).
-* **Delivery**: Multi-channel output via Gmail API and Telegram Bot API.
+## 🏗️ Technical Architecture
+The pipeline is built on a modular architecture that mirrors modern cloud data workflows:
+* **Data Ingestion**: Automated triggers capturing traveler preferences and destination requests.
+* **Processing Layer**: Logic-based routing to filter destinations by safety ratings, seasonal trends, and ROI (value for money).
+* **Output Delivery**: Dynamic generation of travel reports and real-time notification alerts.
 
 ## 🛠️ Tech Stack
-![AWS](https://img.shields.io/badge/AWS-Certified-orange?logo=amazon-aws) ![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5B?logo=n8n) ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google-gemini)
+* **Orchestration**: n8n / Logic Workflows
+* **AI Engine**: LLM Integration for sentiment and preference mapping
+* **Data Format**: JSON-structured event data
+* **Cloud Infrastructure**: Designed for AWS deployment (Lambda/EC2)
 
-> **View the full technical repository here:** [dubai-realestate-ai-agent](https://github.com/lukmanabdulhaq/dubai-realestate-ai-agent)
+## 🚀 Key Engineering Challenges Solved
+* **Multi-API Integration**: Synchronizing disparate travel data sources into a unified JSON schema.
+* **Conditional Logic**: Implementing complex branching to handle high-risk vs. low-risk travel advisories.
+* **Scalability**: Built to handle concurrent global requests without data collision.
 
+---
+*Maintained by Lukman Abdulhaq — AWS Certified Data Engineer*
