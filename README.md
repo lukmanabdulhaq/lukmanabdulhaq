@@ -1,43 +1,22 @@
-# 👋 Hi, I’m Lukman Abdul Haq  
-### AI Operations & Full-Stack Engineer  
+# 🇦🇪 Dubai Real Estate AI Support Agent
+### Autonomous Multilingual Triage & Data Pipeline
 
-Building AI workflows and scalable web applications that automate business processes and improve customer experience.
-
-📍 Accra, Ghana (Remote Ready)  
-📫 lukmanabdulhaq1@gmail.com  
-
----
-
-## 👨‍💻 What I Do  
-I design and build AI-powered web systems, chatbots, and automation tools for startups and businesses.
+<div align="center">
+  <video src="https://raw.githubusercontent.com/lukmanabdulhaq/lukmanabdulhaq/main/demo.mp4" width="100%" controls muted autoplay loop></video>
+</div>
 
 ---
 
-## 💼 Featured Projects
+## 🏗️ The Engineering Behind the Agent
+Designed as a production-grade data pipeline, this system automates customer relations for the Dubai property market using:
 
-### 🔥 Business-TAlly — AI Business Workflow Automation  
-An AI automation system built with n8n and LLMs to help businesses manage and analyze transactions and messages.
+* **Ingestion**: Webhook-based event triggers for real-time data capture.
+* **Logic (NLP)**: Google Gemini 1.5 Flash for language detection (Arabic/English) and sentiment analysis.
+* **Orchestration**: n8n workflow engine (Self-hosted/Cloud).
+* **Delivery**: Multi-channel output via Gmail API and Telegram Bot API.
 
-🔗 Source Code: https://github.com/lukmanabdulhaq/business-TAlly  
+## 🛠️ Tech Stack
+![AWS](https://img.shields.io/badge/AWS-Certified-orange?logo=amazon-aws) ![n8n](https://img.shields.io/badge/n8n-Workflow-FF6D5B?logo=n8n) ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google-gemini)
 
----
-
-### 🌍 Global Tourism Web App  
-A scalable TypeScript web application that showcases tourism data with modern UI and performance optimization.
-
-🔗 Source Code: https://github.com/lukmanabdulhaq/global-tourism  
-
----
-
-## 🚀 Skills  
-
-**AI & Automation:** OpenAI API, Prompt Engineering, LangChain, Dialogflow  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, REST & GraphQL APIs  
-**Database & Cloud:** PostgreSQL, Supabase, Firebase, AWS  
-**DevOps:** Docker, CI/CD (GitHub Actions)
-
----
-
-📬 Let’s build something impactful together!
+> **View the full technical repository here:** [dubai-realestate-ai-agent](https://github.com/lukmanabdulhaq/dubai-realestate-ai-agent)
 
